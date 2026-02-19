@@ -7,7 +7,7 @@
 
 A modern, responsive e-commerce frontend application built with React, Vite, and Tailwind CSS. This project demonstrates a clean architecture for browsing products, managing a shopping cart, and viewing detailed product information.
 
-## 🚀 Features
+##  Features
 
 - **Product Catalog**: Browse a wide range of products categorized for easy navigation.
 - **Product Details**: View detailed information including images, prices, ratings, and descriptions.
@@ -16,7 +16,7 @@ A modern, responsive e-commerce frontend application built with React, Vite, and
 - **Category Filtering**: Filter products dynamically by category.
 - **Responsive Design**: Fully optimized for desktop, tablet, and mobile devices.
 
-## 🛠️ Tech Stack
+##  Tech Stack
 
 - **Frontend Framework**: [React](https://react.dev/)
 - **Build Tool**: [Vite](https://vitejs.dev/)
@@ -26,7 +26,7 @@ A modern, responsive e-commerce frontend application built with React, Vite, and
 - **HTTP Client**: [Axios](https://axios-http.com/)
 - **Icons**: [Lucide React](https://lucide.dev/)
 
-## 📦 Installation & Setup
+##  Installation & Setup
 
 1. **Clone the repository**
    ```bash
@@ -51,7 +51,7 @@ A modern, responsive e-commerce frontend application built with React, Vite, and
    npm run dev
    ```
 
-## 🤝 Contributing
+##  Contributing
 
 Contributions are welcome! Please feel free to submit a Pull Request.
 
@@ -61,7 +61,7 @@ Contributions are welcome! Please feel free to submit a Pull Request.
 4. Push to the branch (`git push origin feature/AmazingFeature`)
 5. Open a Pull Request
 
-## 📄 License
+##  License
 
 This project is open source and available under the information [MIT License](LICENSE).
 
